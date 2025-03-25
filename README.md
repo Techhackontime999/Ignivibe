@@ -1,2 +1,2 @@
 # Ignivibe-
-An Open Source Video Sharing Educational Platform around the World.
+An Open Source Educational Video & Content Sharing Platform around the World.
